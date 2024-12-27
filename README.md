@@ -2,8 +2,7 @@ SHA-256 is designed to be a one-way cryptographic function.
 It takes an input and produces a fixed-length hash value, but the process cannot be reversed.
 This is a core feature of hash functions, making them secure for use in data integrity and password storage.
 
-Simplified Explanation of SHA-256
-What is SHA-256?
+
 SHA-256 (Secure Hash Algorithm 256) is a cryptographic tool used to convert any input data into a fixed-size output called a hash. The result is a unique 256-bit (32-byte) value, often displayed as a sequence of 64 hexadecimal characters.
 
 How it Works:
